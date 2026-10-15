@@ -10,3 +10,9 @@ Activities:
 - Track project changes.
 - Create feature branches.
 - Open and merge pull requests.
+## Learning Objectives
+- Understand the working directory and staging area.
+- Record changes with meaningful commits.
+- Push branches to GitHub.
+- Use pull requests to merge changes.
+- Collaborate through code review.
